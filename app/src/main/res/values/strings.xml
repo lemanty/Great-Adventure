@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Great Adventure</string>
+    <string name="welcome_message">在短途散步中发现身边值得停留的地方。当前为项目初始版本，以下功能正在开发。</string>
+    <string name="explore">地图探索</string>
+    <string name="weather">天气推荐</string>
+    <string name="journal">足迹日记</string>
+    <string name="explore_status">地图探索尚未接入。之后可以在这里查看附近地点。</string>
+    <string name="weather_status">天气推荐尚未接入。之后可以在这里查看适合当前天气的地点。</string>
+    <string name="journal_status">足迹日记尚未接入。之后可以在这里保存到访记录和笔记。</string>
+</resources>
